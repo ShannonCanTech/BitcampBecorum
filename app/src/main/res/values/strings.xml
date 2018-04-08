@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Last Bitcamp Attempt</string>
+    <string name="input_destination">Input your destination</string>
+    <string name="submit_destinations">Submit</string>
+
+    <string name="input_departure">Where are your departing from?</string>
+    <string name="submit_departure">Submit</string>
+
+    <string name="departure_dates_directions">Select your departure date.</string>
+</resources>
